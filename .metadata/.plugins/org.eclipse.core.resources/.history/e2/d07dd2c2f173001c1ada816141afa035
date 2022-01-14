@@ -1,0 +1,60 @@
+/**
+ * 
+ */
+package com.cybersolveit.core.java;
+
+/**
+ * @author supra
+ *
+ */
+public class VariablesAndDataTypesDemo {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int age = 21;
+		double balance = 19.09;
+		boolean isWinter = true;
+		long distanceBetweenTwoCountries = 2342423121;
+		char aChar = '#';
+		double height = 5.3;
+		
+		printLocalVariables();
+	
+	
+		System.out.println(age + "\n" + isWinter + "\n" + distanceBetweenTwoCountries);
+	
+	
+	}
+	
+	
+	public static void printLocalVariables()
+	{
+		char dollar = '$';
+		System.out.println(dollar);
+		
+		String greeting = "Welcome to Core Java";
+		System.out.println(greeting);
+		
+		int  numberOfStudents= 0;
+		System.out.println(numberOfStudents);
+		
+		long totalScore = 0;
+		System.out.println(totalScore);
+		
+		float weight = 0;
+		System.out.println(weight);
+		
+		double totalWeight = 0;
+		System.out.println(totalWeight);
+		
+		byte byteNum = 20;
+		System.out.println(byteNum);
+		
+		
+	}
+
+}

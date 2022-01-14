@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.cybersolveit.core.java;
+
+/**
+ * @author supra
+ *
+ */
+public class VariablesAndDataTypesDemo {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
